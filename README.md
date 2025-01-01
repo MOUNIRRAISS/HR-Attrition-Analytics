@@ -8,6 +8,9 @@
 - [What You'll Find Here 🌟](#what-youll-find-here)
 - [Projects Showcase 🚀](#projects-showcase)
 - [Project N°1](#project-n1)
+- [Project N°2](#project-n2)
+- [Project N°3](#project-n3)
+- [Project N°4](#project-n4)
 
 
 
