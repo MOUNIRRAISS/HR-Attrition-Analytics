@@ -7,7 +7,7 @@
 - [Skills and Expertise](#skills-and-expertise)
 - [What You'll Find Here](#what-youll-find-here)
 - [Projects Showcase](#projects-showcase)
-- [Project N°1](#project-n°1)
+- [Project N°1](#project-n1)
 
 
 
