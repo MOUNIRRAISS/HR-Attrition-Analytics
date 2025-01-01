@@ -1,8 +1,8 @@
-<div align="center">
+
  
 # Welcome to the Portfolio of Raiss Mounir 🎓📊🚀 
 
-</div>
+
 
 
 ### About Me 💼
@@ -45,12 +45,10 @@ Here are some of the key projects I’ve worked on, highlighting my skills in da
 
 
 
-.
-<div align="center">
+
   
 ### Project N°1
 
-</div>
 
 **Title:**  HR Attrition Analysis Dashboard
 
