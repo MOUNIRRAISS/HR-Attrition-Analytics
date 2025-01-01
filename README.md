@@ -6,7 +6,7 @@
 - [About Me](#about-me)
 - [Skills and Expertise](#skills-and-expertise)
 - [What You'll Find Here](#what-youll-find-here)
-- [Projects Showcase](#projects-showcase)
+- [Projects Showcase](#projects-showcase) 
 
 
 
