@@ -24,7 +24,7 @@
 
 #### Hello! I'm Raiss Mounir, a dedicated Data Analyst and Econometrician with a solid background in economics, data analytics, and applied research. I am passionate about transforming complex datasets into meaningful insights that empower informed decision-making. Holding a Master’s degree in Applied Econometrics, I excel at leveraging statistical tools and programming languages such as Python, R, SQL and Stata to uncover patterns, design predictive models, and solve real-world problems. Beyond technical expertise, I bring a collaborative mindset, meticulous attention to detail, and a strong commitment to delivering impactful results in every project.
 
-###  Skills and Expertise 
+###  Skills and Expertise 🚀
 - Data Cleaning, Analysis, and Visualization
 
 - Econometric Modeling (Panel Data, Time Series)
