@@ -74,7 +74,7 @@ Here are some of the key projects I’ve worked on, highlighting my skills in da
 
 This project focuses on analyzing employee attrition to help HR teams identify key drivers of employee turnover. Using an interactive dashboard, the project visualizes critical metrics such as attrition rates by department, age group, and job role, empowering decision-makers with actionable insights.
 
-**Technologies Used:** 
+**Tools Used:** 
 
 - Python for data cleaning and visualisation
 - Power BI for dashboard creation.
@@ -110,11 +110,79 @@ After importing the dataset, it's important to verify its structure and understa
 
 ![image](https://github.com/user-attachments/assets/6027d574-48d0-4e16-92cc-1abb4a55460c)
 
+This output indicates that the dataset contains 1470 entries with no null values across all columns, which ensures data completeness. Additionally, the data types for each column are appropriate, with int64 for numerical variables and object for categorical variables. This suggests that the dataset is clean and ready for analysis, with no immediate need for data type corrections or null value handling.
+
 **Step 4**: Checking for Duplicates 🔍
 
 In data analysis, it's crucial to check for duplicate entries, as they can skew your results. To ensure the integrity of the dataset, we use the duplicated() function to identify any duplicate rows.
 
 
 ![image](https://github.com/user-attachments/assets/23660a78-47e6-409c-bec7-cb44a708de89)
+
+##### output 
+
+![image](https://github.com/user-attachments/assets/21fec74f-d845-4ce8-93df-b5cb775d70b8)
+
+This output  confirms that there are no duplicate rows in the dataset. This indicates that the data is unique and does not require any deduplication process, ensuring the integrity of the dataset for analysis.
+
+
+##### We have thoroughly verified the dataset, including checks for null values, duplicate rows, data types, unique identifiers, and potential inconsistencies. All aspects of the data are in good condition, with no issues requiring modification. The dataset is clean, complete, and ready for further analysis
+
+**Step 5**: Descriptive Statistics 📊
+
+To better understand the dataset, I performed descriptive statistical analysis using the describe() function in pandas. This step provides a summary of the dataset's numerical columns, helping to identify key metrics like the mean, median, and standard deviation.
+
+![image](https://github.com/user-attachments/assets/dc46e0c3-dc35-4107-b7e7-cc044e8f3046)
+
+##### output 
+
+![image](https://github.com/user-attachments/assets/65a405d7-f4be-4bc5-a1f4-b5db88ae84c2)
+
+Descriptive statistics provide a comprehensive overview of a dataset's key characteristics, allowing us to understand its structure and tendencies.
+
+we have :
+
+- Mean: The average value, indicating the central point.
+- Standard Deviation: The variability around the mean.
+- Range (Min and Max): The span from the smallest to the largest value.
+- Q1 : The First Quartile The value below which 25% of the data falls.
+- Q2 : The Second Quartile The middle value of the dataset when sorted. It divides the data into two equal halves.
+- Q3 : The Third Quartile The value below which 75% of the data falls.
+
+**Step 6** Attrition Analysis 
+
+In this step, we analyze the Attrition column of the dataset to understand the distribution of employee attrition (whether employees left or stayed in the company).
+
+![image](https://github.com/user-attachments/assets/fd15924a-eebb-46ad-be2e-2f2ca186698b)
+
+##### output 
+
+![image](https://github.com/user-attachments/assets/0ade1ee2-ba2c-47b3-86f9-9ddd7b3c92bc)
+
+The Attrition Count indicates that out of the total 1470 employees in the dataset, 1233 employees stayed with the company (marked as 'No'), while 237 employees left the company (marked as 'Yes').
+
+The Attrition Percentage reveals that approximately 83.88% of the employees stayed, while about 16.12% of employees left the company. This provides a clear picture of the employee retention rate, indicating that a relatively small proportion of employees decided to leave. However, it’s essential to explore the reasons behind the attrition. By analyzing various factors and variables (such as age, job satisfaction, work-life balance, etc.), we can identify the key drivers of employee turnover and gain valuable insights into areas that may need attention to reduce attrition
+
+##### Here's a visualization
+
+![image](https://github.com/user-attachments/assets/55d9c60f-1d57-4b45-9171-cb947589b59f)
+
+**YES** means left
+**NO** means stayed
+
+**Step 7** Attrition Analysis by gender
+In this step, we analyze the relationship between employee attrition and gender to determine if there are any gender-based patterns or differences in attrition rates.
+
+![image](https://github.com/user-attachments/assets/21cab044-09d1-49da-ae61-f5940c4affa6)
+
+
+##### output 
+
+![image](https://github.com/user-attachments/assets/3e0263ce-8a07-405a-bf17-7996ad835111)
+
+
+
+
+
 
 
