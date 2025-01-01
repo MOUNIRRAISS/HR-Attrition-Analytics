@@ -7,7 +7,7 @@
 - [Skills and Expertise 🚀](#skills-and-expertise)
 - [What You'll Find Here 🌟](#what-youll-find-here)
 - [Projects Showcase 🚀](#projects-showcase)
-- [Project N°1](#project-n1)
+- [Project N°1 (HR Attrition Analysis)(Python & Power BI ](#project-n1)
 - [Project N°2](#project-n2)
 - [Project N°3](#project-n3)
 - [Project N°4](#project-n4)
@@ -68,7 +68,7 @@ Here are some of the key projects I’ve worked on, highlighting my skills in da
 ### Project N°1
 
 
-**Title:**  HR Attrition Analysis Dashboard
+**Title:**  HR Attrition Analysis 
 
 **Description:**
 
