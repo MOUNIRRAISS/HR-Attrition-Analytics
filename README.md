@@ -2,6 +2,16 @@
  
 # Welcome to the Portfolio of Raiss Mounir 🎓📊🚀 
 
+## Table of contents
+- [About Me 💼](About-Me-💼)
+- [Skills and Expertise 🚀](Skills-and-Expertise-🚀)
+- [What You'll Find Here 🌟](What-You'll-Find-Here-🌟)
+- [Projects Showcase 🚀](Projects-Showcase-🚀)
+- [Project N°1](Project-N°1)
+
+
+  
+  
 
 
 
@@ -20,7 +30,7 @@
 
 - Dashboard Development (Power BI, excel)
 
-### 🌟 What You'll Find Here
+###  What You'll Find Here 🌟
 This portfolio showcases my projects, skills, and achievements, including:
 
 📊 Interactive dashboards for visualizing key trends and metrics.
