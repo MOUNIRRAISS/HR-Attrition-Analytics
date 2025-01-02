@@ -46,7 +46,7 @@ Here are some of the key projects I’ve worked on, highlighting my skills in da
 - [Data Source](#data-source)
 - [Python Data Cleaning & Visualization](#python-data-cleaning-and-visualization)
 - [HR Attrition Analysis Dashboard (Power BI)](#hr-attrition-analysis-dashboard)
-- [Step 1: Importing Necessary Packages](#step-1-importing-necessary-packages)
+- [Step 1: Importing Necessary Packages](#step-1:-importing-necessary-packages)
 
 
 #### Title  
@@ -66,7 +66,7 @@ The data used for this project is sourced from the [Kaggle HR Analytics Dataset]
 
 ### Python Data Cleaning and Visualization 
 
-#### Step 1 Importing Necessary Packages
+#### Step 1: Importing Necessary Packages
 
 The first step in any data analysis project is to import the necessary packages or libraries. These libraries provide the functions and tools needed to manipulate the data, perform computations, and create visualizations. Below is the code I used to import the required packages for this project:
 
