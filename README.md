@@ -7,7 +7,7 @@
 - [Skills and Expertise 🚀](#skills-and-expertise)
 - [What You'll Find Here 🌟](#what-youll-find-here)
 - [Projects Showcase 🚀](#projects-showcase)
-- [Project N°1 (HR Attrition Analysis)(Python & Power BI) ](#project-n1-hr-attrition-analysis)
+- [Project N°1 (HR Attrition Analysis)(Python & Power BI) ](#project-n1----hr-attrition-analysis)
 - [Project N°2](#project-n2)
 
 
@@ -37,7 +37,7 @@ This portfolio showcases my projects, skills, and achievements, including:
 
 Here are some of the key projects I’ve worked on, highlighting my skills in data analysis, econometrics, and visualization. Each project tackles a unique challenge and demonstrates my ability to transform data into actionable insights:
 
-### Project N°1 HR Attrition Analysis 
+### Project N°1    HR Attrition Analysis 
   
 #### Table of contents
 - [Title](#title)
