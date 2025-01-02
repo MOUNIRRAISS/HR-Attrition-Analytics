@@ -9,18 +9,6 @@
 - [Projects Showcase 🚀](#projects-showcase)
 - [Project N°1 (HR Attrition Analysis)(Python & Power BI) ](#project-n1)
 - [Project N°2](#project-n2)
-- [Project N°3](#project-n3)
-- [Project N°4](#project-n4)
-
-
-
-
-
-
-
-  
-  
-
 
 
 ### About Me 
@@ -51,21 +39,14 @@ This portfolio showcases my projects, skills, and achievements, including:
 Here are some of the key projects I’ve worked on, highlighting my skills in data analysis, econometrics, and visualization. Each project tackles a unique challenge and demonstrates my ability to transform data into actionable insights:
 .
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+  ### Project N°1
   
-### Project N°1
+#### Table of contents
+- [Title ](#title)
+- [Description ](#description)
+- [Tools Used](#tools-used)
+- [Data Source](#data-source)
+- [Python - Data Cleaning & Visualization) ](#python-data-cleaning-&-visualization)
 
 
 **Title:**  HR Attrition Analysis 
@@ -308,8 +289,26 @@ This visualization shows the attrition distribution by marital status. Key insig
 - Single employees seem to be more prone to attrition compared to married or divorced employees.
 - Stability in employment appears higher among married and divorced groups. This trend could suggest that marital status influences employee retention.
 
+**Step 10**: Attrition Analysis by Education Field
 
+In this step, we analyze the distribution of employee attrition across different education fields.
 
+![image](https://github.com/user-attachments/assets/af9e1770-d80d-4c39-a46c-2fc138caf0f1)
+
+#### output 
+
+![image](https://github.com/user-attachments/assets/eb338a5c-5740-4850-b961-8b6c1c48ce48)
+
+##### Here's a visualization
+
+![image](https://github.com/user-attachments/assets/589ddf5b-26b5-4991-a9af-b18efc7652be)
+
+#### output 
+
+![image](https://github.com/user-attachments/assets/f1a997ad-4b71-4ae6-afa9-3e1cab188358)
+
+ Human Resources and Technical Degree experience higher attrition rates, which may require further investigation into job satisfaction, opportunities for growth, or workplace conditions. On the other side, 
+ Medical, Life Sciences, and "Other" fields show strong retention rates, reflecting a high level of employee satisfaction and stability.
 
 
 
