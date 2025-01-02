@@ -45,8 +45,17 @@ Here are some of the key projects I’ve worked on, highlighting my skills in da
 - [Tools Used](#tools-used)
 - [Data Source](#data-source)
 - [Python Data Cleaning & Visualization](#python-data-cleaning-and-visualization)
+- [Step 1: Importing Necessary Packages 📩](#step-1-importing-necessary-packages)
+- [Step 2 Importing the Dataset 📝](#step-2-importing-the-dataset)
+- [Step 3: Verifying the Dataset 🧐](#step-3-verifying-the-dataset)
+- [Step 4: Checking for Duplicates 🔍](#step-4-checking-for-duplicates)
+- [Step 5: Descriptive Statistics 📊](#step-5-descriptive-statistics)
+- [Step 6: Attrition Analysis📈](#step-6-attrition-analysis)
+- [Step 7: Analysis of Employee Distribution and Attrition by gender ](#step-7-analysis-of-employee-distribution-and-attrition-by-gender)
+- [Step 8: Analysis of Employee Distribution and Attrition by Department](#step-8-analysis-of-employee-distribution-and-attrition-by-department)
+- [Step 9: Analysis of Employee Distribution and Attrition by Marital Status](#step-9-analysis-of-employee-distribution-and-attrition-by-marital-status)
+- [Step 10: Attrition Analysis by Education Field](#step-10-attrition-analysis-by-education-field)
 - [HR Attrition Analysis Dashboard (Power BI)](#hr-attrition-analysis-dashboard)
-- [Step 1: Importing Necessary Packages](#step-1:-importing-necessary-packages)
 
 
 #### Title  
@@ -66,13 +75,13 @@ The data used for this project is sourced from the [Kaggle HR Analytics Dataset]
 
 ### Python Data Cleaning and Visualization 
 
-#### Step 1: Importing Necessary Packages
+#### Step 1 Importing Necessary Packages
 
 The first step in any data analysis project is to import the necessary packages or libraries. These libraries provide the functions and tools needed to manipulate the data, perform computations, and create visualizations. Below is the code I used to import the required packages for this project:
 
 ![image](https://github.com/user-attachments/assets/2cb3f92b-eadf-43f4-8037-44612a090145)
 
-#### Step 2: Importing the Dataset 📊
+#### Step 2 Importing the Dataset 
  
 The next step is to import the dataset into our Python environment. This is done using the pandas library, which allows us to easily load and manipulate data. Below is the code I used to import the dataset and display the first few rows for a quick preview.
 
@@ -83,7 +92,7 @@ The next step is to import the dataset into our Python environment. This is done
 
 ![image](https://github.com/user-attachments/assets/353dd663-09c2-4164-be01-4b6aafe51560)
 
-#### Step 3: Verifying the Dataset 🧐
+#### Step 3 Verifying the Dataset 
 
 After importing the dataset, it's important to verify its structure and understand the types of data it contains. We can do this using the info() function in pandas, which provides details about the dataset, such as the number of entries, column names, data types, and the presence of missing values.
 
@@ -95,7 +104,7 @@ After importing the dataset, it's important to verify its structure and understa
 
 This output indicates that the dataset contains ***1470*** entries with no null values across all columns, which ensures data completeness. Additionally, the data types for each column are appropriate, with int64 for numerical variables and object for categorical variables. This suggests that the dataset is clean and ready for analysis, with no immediate need for data type corrections or null value handling.
 
-#### Step 4: Checking for Duplicates 🔍
+#### Step 4 Checking for Duplicates 
 
 In data analysis, it's crucial to check for duplicate entries, as they can skew your results. To ensure the integrity of the dataset, we use the duplicated() function to identify any duplicate rows.
 
@@ -111,7 +120,7 @@ This output  confirms that there are no duplicate rows in the dataset. This indi
 
 ##### "We have thoroughly verified the dataset, including checks for null values, duplicate rows, data types, unique identifiers, and potential inconsistencies. All aspects of the data are in good condition, with no issues requiring modification. The dataset is clean, complete, and ready for further analysis"
 
-#### Step 5: Descriptive Statistics 📊
+#### Step 5 Descriptive Statistics 
 
 To better understand the dataset, I performed descriptive statistical analysis using the describe() function in pandas. This step provides a summary of the dataset's numerical columns, helping to identify key metrics like the mean, median, and standard deviation.
 
@@ -132,7 +141,7 @@ we have :
 - Q2 : The Second Quartile The middle value of the dataset when sorted. It divides the data into two equal halves.
 - Q3 : The Third Quartile The value below which ***75%*** of the data falls.
 
-#### Step 6: Attrition Analysis 
+#### Step 6 Attrition Analysis 
 
 In this step, we analyze the Attrition column of the dataset to understand the distribution of employee attrition (whether employees left or stayed in the company).
 
@@ -156,7 +165,7 @@ The Attrition Percentage reveals that approximately ***83.88%*** of the employee
 
 
 
-#### Step 7: Analysis of Employee Distribution and Attrition by gender
+#### Step 7 Analysis of Employee Distribution and Attrition by gender
 
 In this step, we analyze  Distribution of gender and the relationship between employee attrition and gender to determine if there are any gender-based patterns or differences in attrition rates.
 
@@ -208,7 +217,7 @@ Only ***14.80%*** of female employees left the company, reflecting a relatively 
 
 These results suggest that female employees tend to have a slightly higher retention rate than male employees in the company. The reason behind this difference could be explored further by analyzing factors such as job satisfaction, work environment, or other demographic and professional attributes. Understanding these dynamics can help the company address specific issues related to male attrition and improve overall employee retention
 
-#### Step 8: Analysis of Employee Distribution and Attrition by Department
+#### Step 8 Analysis of Employee Distribution and Attrition by Department
 
 in this step we will explore the distribution of employees across various departments and analyze the attrition (employee turnover) rate within each department
 
@@ -244,7 +253,7 @@ This distribution shows a clear dominance of the R&D department, followed by Sal
 
 The data shows that while Research & Development has the lowest attrition rate, Sales and Human Resources exhibit relatively higher levels of employee turnover.
 
-#### Step 9: Analysis of Employee Distribution and Attrition by Marital Status 
+#### Step 9 Analysis of Employee Distribution and Attrition by Marital Status 
 
 In this step, we explore the marital status distribution of employees, calculating both the total number of employees in each marital status category and their corresponding percentages. Additionally, we analyze attrition rates based on marital status. By understanding the relationship between marital status and attrition, we can identify whether certain marital statuses correlate with higher or lower employee turnover. This information may help in making targeted interventions to improve retention across different employee groups.
 
@@ -283,7 +292,7 @@ This visualization shows the attrition distribution by marital status. Key insig
 - Single employees seem to be more prone to attrition compared to married or divorced employees.
 - Stability in employment appears higher among married and divorced groups. This trend could suggest that marital status influences employee retention.
 
-#### Step 10: Attrition Analysis by Education Field
+#### Step 10 Attrition Analysis by Education Field
 
 In this step, we analyze the distribution of employee attrition across different education fields.
 
