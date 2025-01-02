@@ -18,7 +18,7 @@
 ###  Skills and Expertise 
 - Data Cleaning, Analysis, and Visualization
 
-- Econometric Modeling (Panel Data, Time Series)
+- Econometric Modeling (Panel Data, Time Series,cross section)
  
 - Statistical Programming (Python, R, SQL, Stata)
 
