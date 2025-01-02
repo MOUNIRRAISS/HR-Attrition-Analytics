@@ -8,7 +8,7 @@
 - [What You'll Find Here 🌟](#what-youll-find-here)
 - [Projects Showcase 🚀](#projects-showcase)
 - [Project N°1 (HR Attrition Analysis)(Python & Power BI) ](#project-n1----hr-attrition-analysis)
-- [Project N°2](#project-n2)
+- [Project N°2 In Progress](#project-n2)
 
 
 ### About Me 
