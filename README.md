@@ -45,6 +45,7 @@ Here are some of the key projects I’ve worked on, highlighting my skills in da
 - [Tools Used](#tools-used)
 - [Data Source](#data-source)
 - [Python Data Cleaning & Visualization](#python-data-cleaning-and-visualization)
+- [HR Attrition Analysis Dashboard (Power BI)](#hr-attrition-analysis-dashboard)
 
 
 #### Title  
