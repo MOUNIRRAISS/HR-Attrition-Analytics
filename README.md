@@ -33,37 +33,37 @@ This portfolio showcases my projects, skills, and achievements, including:
 
 📈 Advanced econometric models for real-world problem-solving.
 
-
 ### Projects Showcase 
 
 Here are some of the key projects I’ve worked on, highlighting my skills in data analysis, econometrics, and visualization. Each project tackles a unique challenge and demonstrates my ability to transform data into actionable insights:
-.
 
-  ### Project N°1
+### Project N°1
   
 #### Table of contents
-- [Title ](#title)
-- [Description ](#description)
+- [Title](#title)
+- [Description](#description)
 - [Tools Used](#tools-used)
 - [Data Source](#data-source)
-- [Python - Data Cleaning & Visualization) ](#python-data-cleaning-&-visualization)
+- [Python Data Cleaning & Visualization](#python-data-cleaning-and-visualization)
 
 
-**Title:**  HR Attrition Analysis 
+#### Title  
+HR Attrition Analysis 
 
-**Description:**
+#### Description
 
 This project focuses on analyzing employee attrition to help HR teams identify key drivers of employee turnover. Using an interactive dashboard, the project visualizes critical metrics such as attrition rates by department, age group, and job role, empowering decision-makers with actionable insights.
 
-**Tools Used:** 
+#### Tools Used 
 
 - Python for data cleaning and visualisation
 - Power BI for dashboard creation.
 
-**Data Source:**  
+#### Data Source
 The data used for this project is sourced from the [Kaggle HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 
-### Python - Data Cleaning & Visualization 
+### Python Data Cleaning and Visualization 
+
 **Step 1**: Importing Necessary Packages
 
 The first step in any data analysis project is to import the necessary packages or libraries. These libraries provide the functions and tools needed to manipulate the data, perform computations, and create visualizations. Below is the code I used to import the required packages for this project:
