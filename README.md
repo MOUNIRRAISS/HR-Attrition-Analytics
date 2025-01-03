@@ -1,5 +1,3 @@
-
- 
 # Welcome to the Portfolio of Raiss Mounir 🎓📊
 
 ### Table of contents
