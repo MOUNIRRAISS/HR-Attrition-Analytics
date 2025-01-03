@@ -1,12 +1,12 @@
 
  
-# Welcome to the Portfolio of Raiss Mounir 🎓📊🚀 
+# Welcome to the Portfolio of Raiss Mounir 🎓📊
 
 ### Table of contents
-- [About Me 💼](#about-me)
-- [Skills and Expertise 🚀](#skills-and-expertise)
-- [What You'll Find Here 🌟](#what-youll-find-here)
-- [Projects Showcase 🚀](#projects-showcase)
+- [About Me ](#about-me)
+- [Skills and Expertise ](#skills-and-expertise)
+- [What You'll Find Here ](#what-youll-find-here)
+- [Projects Showcase ](#projects-showcase)
 - [Project N°1 (HR Attrition Analysis)(Python & Power BI) ](#project-n1----hr-attrition-analysis)
 - [Project N°2 In Progress](#project-n2)
 
@@ -45,13 +45,13 @@ Here are some of the key projects I’ve worked on, highlighting my skills in da
 - [Tools Used](#tools-used)
 - [Data Source](#data-source)
 - [Python Data Cleaning & Visualization](#python-data-cleaning-and-visualization)
-- [Step 1: Importing Necessary Packages 📩](#step-1-importing-necessary-packages)
-- [Step 2 Importing the Dataset 📝](#step-2-importing-the-dataset)
-- [Step 3: Verifying the Dataset 🧐](#step-3-verifying-the-dataset)
-- [Step 4: Checking for Duplicates 🔍](#step-4-checking-for-duplicates)
-- [Step 5: Descriptive Statistics 📊](#step-5-descriptive-statistics)
+- [Step 1: Importing Necessary Packages ](#step-1-importing-necessary-packages)
+- [Step 2 Importing the Dataset ](#step-2-importing-the-dataset)
+- [Step 3: Verifying the Dataset ](#step-3-verifying-the-dataset)
+- [Step 4: Checking for Duplicates ](#step-4-checking-for-duplicates)
+- [Step 5: Descriptive Statistics ](#step-5-descriptive-statistics)
 - [Step 6: Distribution of Age](#step-6-distribution-of-age)
-- [Step 7: Attrition Analysis📈](#step-7-attrition-analysis)
+- [Step 7: Attrition Analysis](#step-7-attrition-analysis)
 - [Step 8: Analysis of Employee Distribution and Attrition by gender ](#step-8-analysis-of-employee-distribution-and-attrition-by-gender)
 - [Step 9: Analysis of Employee Distribution and Attrition by Department](#step-9-analysis-of-employee-distribution-and-attrition-by-department)
 - [Step 10: Analysis of Employee Distribution and Attrition by Marital Status](#step-10-analysis-of-employee-distribution-and-attrition-by-marital-status)
